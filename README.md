@@ -1,37 +1,61 @@
-### 📊 E-commerce Analytics & DBA Project
-Projeto focado em Inteligência de Negócios e Administração de Banco de Dados, simulando um ambiente corporativo real de e-commerce.
+### 👩‍💻 Halina Oliveira | Portfólio de Análise de Dados
 
+Estudante de Banco de Dados com foco em análise de dados, SQL e Python.
+Desenvolvo projetos práticos simulando cenários reais de negócio, transformando dados em insights acionáveis.
 
-### 🎯 Impacto em Números
-Faturamento Identificado: R$ 213.590,14
+### 🚀 Sobre este portfólio
 
-Oportunidade de Recuperação: R$ 523.680,45 (pedidos pendentes/cancelados)
+Este repositório reúne meus principais projetos de análise de dados, onde aplico na prática:
 
-Eficiência Operacional: Redução de ruptura de estoque via alertas automatizados.
+Extração e manipulação de dados com SQL
 
-### 🛠️ Stack Técnica
-DBA: PostgreSQL (Joins, Subqueries, Views, Índices, Explain Analyze).
+Tratamento e análise com Python (Pandas)
 
-Automação: Python para inserção massiva de dados (Bulk Insert).
+Visualização de dados com Matplotlib / Power BI
 
-BI: Excel e Dashboards Estratégicos.
+Estruturação de pipelines de dados
 
-### 💻 Exemplos de Queries
-Diagnóstico Financeiro SQL
+### 📊 Projeto em destaque: Análise de Vendas
+### 🎯 Objetivo
 
-SELECT SUM(valor_pago) AS prejuizo_total
-FROM relatorio_compras 
-WHERE status IN ('Cancelado', 'Pendente');
-Alerta de Estoque Crítico (< 25 unidades)
+Analisar dados de vendas para identificar padrões, desempenho por canal e oportunidades de crescimento.
 
-SELECT p.nome, e.quantidade_disponivel, f.nome AS fornecedor
-FROM produtos p
-JOIN estoque e ON e.produto_id = p.produto_id
-JOIN fornecedores f ON f.fornecedor_id = p.fornecedor_id
-WHERE e.quantidade_disponivel < 25;
+### ⚙️ Tecnologias utilizadas
 
-### 📄 Portfólio Completo
-Confira a apresentação detalhada do projeto na pasta /docs deste repositório.
+PostgreSQL
 
-### 📫 Contato
-www.linkedin.com/in/halina-oliveira | E-mail: halina.oliveira2021@gmail.com
+Python (Pandas, Matplotlib)
+
+Google Colab / VS Code
+
+### 🔄 Pipeline do projeto
+
+Extração de dados via SQL
+
+Limpeza e tratamento com Pandas
+
+Análise exploratória (EDA)
+
+Criação de métricas de negócio
+
+Visualização de dados
+
+### 📈 Principais análises
+
+Faturamento total
+
+Receita por canal de vendas
+
+Evolução mensal de vendas
+
+Volume de vendas por canal
+
+### 💡 Insights gerados
+
+Marketplace lidera o faturamento
+
+Site é o segundo canal mais relevante
+
+Loja física com menor participação → oportunidade de crescimento digital
+
+Picos de vendas em setembro e novembro (sazonalidade)
