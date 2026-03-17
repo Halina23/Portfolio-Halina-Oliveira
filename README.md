@@ -1,8 +1,7 @@
 ### 👩‍💻 Halina Oliveira | Portfólio de Análise de Dados
 
 Estudante de Banco de Dados com foco em análise de dados, SQL e Python.
-Desenvolvo projetos práticos simulando cenários reais de negócio, transformando dados em insights acionáveis.
-
+Transformo dados em **insights de negócio e apoio à decisão** utilizando SQL, Python e Power BI.
 ### 🚀 Sobre este portfólio
 
 Este repositório reúne meus principais projetos de análise de dados, onde aplico na prática:
@@ -61,8 +60,11 @@ Loja física com menor participação → oportunidade de crescimento digital
 Picos de vendas em setembro e novembro (sazonalidade)
 
 ### ✅ Resultados
+A análise permitiu identificar os principais canais de receita e padrões de vendas, possibilitando:
 
-O projeto demonstra como transformar dados brutos em informações estratégicas para apoiar decisões de negócio.
+- Melhor direcionamento de estratégias comerciais  
+- Identificação de oportunidades de crescimento digital  
+- Apoio à tomada de decisão baseada em dados 
 
 ### 🧠 Habilidades
 
@@ -70,7 +72,7 @@ O projeto demonstra como transformar dados brutos em informações estratégicas
 
 SQL (Joins, Group By, agregações)
 
-Python para análise de dados
+Python (Pandas, análise e manipulação de dados)
 
 Modelagem de dados
 
