@@ -59,3 +59,41 @@ Site é o segundo canal mais relevante
 Loja física com menor participação → oportunidade de crescimento digital
 
 Picos de vendas em setembro e novembro (sazonalidade)
+
+### ✅ Resultados
+
+O projeto demonstra como transformar dados brutos em informações estratégicas para apoiar decisões de negócio.
+
+### 🧠 Habilidades
+
+## Hard Skills:
+
+SQL (Joins, Group By, agregações)
+
+Python para análise de dados
+
+Modelagem de dados
+
+Power BI e visualização
+
+## Soft Skills:
+
+Atenção aos detalhes
+
+Organização
+
+Proatividade
+
+Aprendizado rápido
+
+### 📚 Formação
+
+🎓 Banco de Dados – Unicesumar (em andamento)
+
+### 📬 Contato
+
+### Email: halina.oliveira2021@gmail.com
+
+### LinkedIn: www.linkedin.com/in/halina-oliveira
+
+### GitHub: https://github.com/Halina23
