@@ -103,4 +103,4 @@ Aprendizado rápido
 
 ### GitHub: https://github.com/Halina23
 
-### 📄 Portfólio completo: [Visualizar apresentação][(https://docs.google.com/presentation/d/1GTOuQuEppujRhmZO5BNskvgTIIU3rlxp)](https://docs.google.com/presentation/d/1K3g8moCyy2PsbW3oykp7m549Jjbzi1uu/edit?usp=sharing&ouid=111650953569924541119&rtpof=true&sd=true)
+### 📄 Portfólio completo:[(https://docs.google.com/presentation/d/1GTOuQuEppujRhmZO5BNskvgTIIU3rlxp)](https://docs.google.com/presentation/d/1K3g8moCyy2PsbW3oykp7m549Jjbzi1uu/edit?usp=sharing&ouid=111650953569924541119&rtpof=true&sd=true)
