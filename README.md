@@ -88,6 +88,10 @@ Proatividade
 
 Aprendizado rápido
 
+### 📊 Dashboard de Vendas
+### 📊 Dashboard de Vendas
+![Dashboard de Vendas](https://github.com/Halina23/Portfolio-Halina-Oliveira/blob/main/Dashboard%20Ecommerce%20BI.png?raw=true)
+
 ### 📚 Formação
 
 🎓 Banco de Dados – Unicesumar (em andamento)
