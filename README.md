@@ -101,4 +101,4 @@ ORDER BY receita_total DESC;
 
 ### GitHub: https://github.com/Halina23
 
-### 📄 Portfólio completo:[(https://docs.google.com/presentation/d/1GTOuQuEppujRhmZO5BNskvgTIIU3rlxp)](https://docs.google.com/presentation/d/1K3g8moCyy2PsbW3oykp7m549Jjbzi1uu/edit?usp=sharing&ouid=111650953569924541119&rtpof=true&sd=true)
+### 📄 Portfólio completo:📄 [Clique aqui para ver o portfólio completo](https://drive.google.com/file/d/167OkjjViD9zCXDExa_uZg1iF1GW7B8lW/view?usp=sharing)
