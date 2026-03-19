@@ -89,7 +89,7 @@ ORDER BY receita_total DESC;
 ### 📊 Dashboard de Vendas
 ![Dashboard de Vendas](https://github.com/Halina23/Portfolio-Halina-Oliveira/blob/main/Dashboard%20Ecommerce%20BI.png?raw=true)
 
-![Dashboard Loja Física]([Dashboard_Loja_Fisica.png](https://github.com/Halina23/Portfolio-Halina-Oliveira/blob/main/An%C3%A1lise%20de%20Performance%20Loja%20F%C3%ADsica.pdf))
+![Análise de Vendas Loja Física](Análise%20de%20Vendas%20Loja%20Física.png)
 
 ### 📚 Formação
 
