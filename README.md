@@ -89,6 +89,8 @@ ORDER BY receita_total DESC;
 ### 📊 Dashboard de Vendas
 ![Dashboard de Vendas](https://github.com/Halina23/Portfolio-Halina-Oliveira/blob/main/Dashboard%20Ecommerce%20BI.png?raw=true)
 
+![Dashboard Loja Física](Dashboard_Loja_Fisica.png)
+
 ### 📚 Formação
 
 🎓 Banco de Dados – Unicesumar (em andamento)
