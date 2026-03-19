@@ -91,6 +91,34 @@ ORDER BY receita_total DESC;
 
 ![Análise de Vendas Loja Física](Análise%20de%20Vendas%20Loja%20Física.png)
 
+### 🔍 Conclusões
+### ❌ Cartão de Crédito é o maior gargalo de pagamento
+Com 24 falhas registradas para apenas 6 vendas concluídas, o Cartão de Crédito apresenta a maior taxa de falha entre os métodos disponíveis — um ponto de atenção direto para a operação da loja.
+### ⚠️ Taxa de cancelamento de 16,7%
+Quase 1 em cada 6 vendas não é finalizada, o que representa perda direta de receita e indica possíveis problemas no processo de pagamento ou na experiência do cliente.
+### 📍 São Paulo representa uma oportunidade de crescimento
+SP registrou apenas 3 vendas no período — o menor volume entre todos os estados. Isso indica potencial inexplorado que pode ser ativado com ações promocionais direcionadas.
+### 📦 Monitores e Notebooks dominam o faturamento
+As duas categorias juntas respondem por praticamente todo o faturamento da loja, o que pode indicar falta de diversificação no mix de produtos oferecidos presencialmente.
+### 💡 Query — Oportunidade de Promoção em SP
+Para identificar clientes de São Paulo que nunca compraram na Loja Física, criei essa query como base para uma possível campanha de promoção direcionada:
+
+-- Clientes de SP que nunca compraram na Loja Física
+
+SELECT c.nome, c.email, c.cidade
+FROM clientes c
+JOIN estados e ON e.estado_id = c.estado_id
+WHERE e.sigla = 'SP'
+  AND c.cliente_id NOT IN (
+    SELECT v.cliente_id
+    FROM vendas v
+    JOIN canais_venda cv ON cv.canal_id = v.canal_id
+    WHERE cv.nome = 'Loja Fisica'
+  );
+
+### Essa consulta retorna uma lista de clientes potenciais que já estão na base, mas ainda não foram convertidos para o canal físico. 🎯
+
+
 ### 📚 Formação
 
 🎓 Banco de Dados – Unicesumar (em andamento)
